@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Course-Project-CSharp-Cars", "OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars.csproj", "{EB3DEDF2-CD25-472D-A199-29E118DFE02F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5C25AE2-6233-4631-95EE-F64ACF0F4F29}"
+	ProjectSection(SolutionItems) = preProject
+		Vehicles.cs = Vehicles.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
