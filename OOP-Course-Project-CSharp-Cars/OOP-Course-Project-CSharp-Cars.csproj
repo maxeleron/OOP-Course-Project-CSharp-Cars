@@ -54,6 +54,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="CommercialVehicles.cs" />
+    <Compile Include="EconomyCars.cs" />
+    <Compile Include="FamiliCars.cs" />
+    <Compile Include="LuxuryCars.cs" />
+    <Compile Include="Sedans.cs" />
+    <Compile Include="SportCars.cs" />
+    <Compile Include="Vehicle.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

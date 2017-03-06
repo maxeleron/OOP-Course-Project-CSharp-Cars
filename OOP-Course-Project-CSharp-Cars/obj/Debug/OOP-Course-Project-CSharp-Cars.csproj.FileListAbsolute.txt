@@ -1,0 +1,14 @@
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\bin\Debug\OOP-Course-Project-CSharp-Cars.exe.config
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\bin\Debug\OOP-Course-Project-CSharp-Cars.exe
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\bin\Debug\OOP-Course-Project-CSharp-Cars.pdb
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP-Course-Project-CSharp-Cars.csprojResolveAssemblyReference.cache
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\MainWindow.g.cs
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\App.g.cs
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP-Course-Project-CSharp-Cars_MarkupCompile.cache
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP-Course-Project-CSharp-Cars_MarkupCompile.lref
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\MainWindow.baml
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP-Course-Project-CSharp-Cars.g.resources
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP_Course_Project_CSharp_Cars.Properties.Resources.resources
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP-Course-Project-CSharp-Cars.csproj.GenerateResource.Cache
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP-Course-Project-CSharp-Cars.exe
+Q:\CourseProject\OOP-Course-Project-CSharp-Cars\OOP-Course-Project-CSharp-Cars\obj\Debug\OOP-Course-Project-CSharp-Cars.pdb
